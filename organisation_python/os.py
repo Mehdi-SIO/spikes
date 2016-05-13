@@ -1,0 +1,2 @@
+#def getcwd():
+#	return 'a'
